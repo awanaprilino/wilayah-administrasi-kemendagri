@@ -3,7 +3,7 @@ Indonesian Administrative Regions Database
 
 Database wilayah administrasi Indonesia lengkap dari data Kemendagri (Kementerian Dalam Negeri).
 
-## DATA
+## data
 ```
 "totals": {
     "provinces": 38,
@@ -13,7 +13,7 @@ Database wilayah administrasi Indonesia lengkap dari data Kemendagri (Kementeria
   }
 ```
 
-## CAKUPAN
+## Cakupan
 - Provinsi
 - Kabupaten/kota, 
 - Kecamatan
@@ -23,10 +23,10 @@ Database wilayah administrasi Indonesia lengkap dari data Kemendagri (Kementeria
 - CSV (import friendly)
 - SQLite3
 
-## DATA BERDASARKAN
+## Data Berdasarkan
 KEPUTUSAN MENTERI DALAM NEGERI NOMOR 300.2.2-2138 TAHUN 2025 TENTANG PEMBERIAN DAN PEMUTAKHIRAN KODE, DATA WILAYAH ADMINISTRASI PEMERINTAHAN, DAN PULAU
 
-## CREDIT / REFERENSI
+## Credit / Referensi
 - https://jdih.kemendagri.go.id/dokumen/view?id=1937 
 - https://drive.google.com/file/d/1o_m621D00TtwCwQMLn8XUnV3nolamPDm/view
 - https://github.com/cahyadsn/wilayah
