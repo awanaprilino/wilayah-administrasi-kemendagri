@@ -3,7 +3,7 @@ Indonesian Administrative Regions Database
 
 Database wilayah administrasi Indonesia lengkap dari data Kemendagri (Kementerian Dalam Negeri).
 
-## data
+## Data
 ```
 "totals": {
     "provinces": 38,
